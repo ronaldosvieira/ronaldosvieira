@@ -1,4 +1,6 @@
-### Hi there 👋
+```python3
+# todo: add something here next time I procrastinate
+```
 
 <!--
 **ronaldosvieira/ronaldosvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
